@@ -1,0 +1,4 @@
+/Users/fernandagirelli/Desktop/JourneyGAME/cmake-build-debug/CMakeFiles/JourneyGAME_fdeolive.dir
+/Users/fernandagirelli/Desktop/JourneyGAME/cmake-build-debug/CMakeFiles/JourneyGAME_fdeoliveTest.dir
+/Users/fernandagirelli/Desktop/JourneyGAME/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fernandagirelli/Desktop/JourneyGAME/cmake-build-debug/CMakeFiles/rebuild_cache.dir
